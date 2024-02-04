@@ -1,6 +1,8 @@
+# JUSTICE CONNECT
+
 <div align="center">
     <div>
-        <img width="200px" src="https://github.com/Akshayp02/JUSTICE-CONNECT/assets/95123298/d7d03cf1-682b-4da6-bf26-954fadd3940f" alt="jc logo" />
+        <img width="200px" src="https://github.com/srirajamaddirala/JUSTICE-CONNECT/assets/151869666/6109c0e8-84e8-42c5-9f35-7f0b7ac617c8" alt="jc logo" />
     </div>
     <div>
         <h3><b>JUSTICE CONNECT</b></h3>
@@ -10,8 +12,33 @@
   
 </div>
 
-![justice connect home screen](assets/headhome.png)
+// APP PROTOTYPE //
+4 PROTYP-
+1. USER LOGIN
+2. MAIN SCREEN
+3. REPORT-COMPLAINT
+4. GET HELP
 
+    <hr>
+
+<table style="width: 100%;">
+  <tr>
+    <td style="text-align: center;">
+      
+ <img src="" alt="Image 1" style="width: 100%;">
+      <p>Login Screen</p>
+    </td>
+    <td style="text-align: center;">
+      <img src="https://www.kapwing.com/videos/65bfafcbfbfaa617ae82bf9a" alt="Image 8" style="width: 100%;">
+      <p>Home Screen</p>
+    </td>
+    <td style="text-align: center;">
+      <img src="https://imgur.com/7UCqRiI.gif" alt="Image 2" style="width: 100%;">
+      <p>Add Posts</p>
+    </td>
+https://www.kapwing.com/videos/65bfafcbfbfaa617ae82bf9a
+
+      
 **JusticeConnect: Empowering Justice, Fostering Peace**
 
 Our mission is clear: to diminish instances of injustice, mitigate associated mental health challenges, and ensure equitable access to justice for all.
