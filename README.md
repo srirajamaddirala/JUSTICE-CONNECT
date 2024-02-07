@@ -148,47 +148,39 @@ JusticeConnect stands as a reliable ally for justice seekers, streamlining the p
 <img src="https://github.com/srirajamaddirala/JUSTICE-CONNECT/assets/151869666/028d5dc3-1161-4990-b46a-59423edf6d28" height="150" />
 </kbd>
 <kbd>
-<img src="https://github.com/srirajamaddirala/JUSTICE-CONNECT/assets/151869666/b0b37b68-771d-4c0d-9276-d0c0f10a349b" height="150" />
+<img src="https://github.com/srirajamaddirala/JUSTICE-CONNECT/assets/151869666/bb93364a-9cdc-47ff-9e85-212fdece98ab" height="150" />
 </kbd>
 <kbd>
 <img src="https://github.com/srirajamaddirala/JUSTICE-CONNECT/assets/151869666/21363bc1-d8a8-4208-8f32-f5786cc55fc5" height="150" />
 </kbd>
 
 
-  Transparent Governance (**`Target 16.6`**): JusticeConnect promotes transparent and inclusive decision-making, contributing to accountable institutions and reducing corruption.
+   Combating Corruption and Bribery(**`Target 16.6`**): JusticeConnect aims to empower individuals to report instances of corruption.
    Access to Justice (**`Target 16.3`**): The app facilitates universal access to justice, ensuring fair treatment for all individuals and supporting the development of effective, accountable, and inclusive institutions.
    
  ### Goal 5: Gender Equality:
  
+  Women's Safety and Empowerment: JusticeConnect, by ensuring immediate response mechanisms and advocating for women's safety, contributes to the broader goal of achieving gender equality and empowering all women and girls.
+
+  
  <kbd>
 <img src="https://github.com/srirajamaddirala/JUSTICE-CONNECT/assets/151869666/cfb80dce-b215-4df5-8a22-6e1d681b0ffc" height="150" />
 </kbd>
 <kbd>
-<img src="https://github.com/srirajamaddirala/JUSTICE-CONNECT/assets/151869666/e8fcfe75-f2d5-4a7f-b616-24427cce9209" height="150" />
+<img src="https://github.com/srirajamaddirala/JUSTICE-CONNECT/assets/151869666/6a147ce3-1370-4eeb-aa7a-74a5983cf0d7" height="150" />
 </kbd>
+
 <kbd>
-<img src=" https://github.com/srirajamaddirala/JUSTICE-CONNECT/assets/151869666/606a8f12-59f8-4337-a62b-eb5e2dac97a6" height="150" />
-</kbd>
-<kbd>
-<img src="https://github.com/srirajamaddirala/JUSTICE-CONNECT/assets/151869666/a8f180db-9524-40b3-9f31-06d7d5f799ff" height="150" />
+<img src="https://github.com/srirajamaddirala/JUSTICE-CONNECT/assets/151869666/f5996071-6331-4955-984d-76c1311b3663" height="150" />
 </kbd>
 
   
-   Women's Safety and Empowerment: JusticeConnect, by ensuring immediate response mechanisms and advocating for women's safety, contributes to the broader goal of achieving gender equality and empowering all women and girls.
-       End all forms of discrimination and violence against women and girls (**`target 5.1`**):
+
+End all forms of discrimination and violence against women and girls (**`target 5.1`**):
         JusticeConnect supports users in reporting and addressing various forms of discrimination and violence, promoting a safer environment for women and girls.
-Eliminate harmful practices, such as child marriage and female genital mutilation(**`target5.3`**):
-        Through community support and educational resources, JusticeConnect can raise awareness and contribute to eliminating harmful practices.
-
-Ensure equal participation and opportunities for leadership at all levels of decision-making(**`target 5.5`**):
-        JusticeConnect's features, including reporting injustice and community support, can empower women to advocate for their rights and equal participation in decision-making processes.
-
-Ensure women's full and effective participation and equal opportunities for leadership in public life(**`target 5.c`**):
-        By providing legal resources and support, JusticeConnect helps women access information and opportunities for active participation and leadership.
-
-  Adopt and strengthen sound policies and enforceable legislation for the promotion of gender equality and the empowerment of all women and girls (target 5.9):
-        JusticeConnect promotes awareness of laws and legal rights, contributing to the adoption and strengthening of policies that support gender equality and empowerment.
-
+        
+Ending Gender-Based Violence (**`target 5.2`**):JusticeConnect works towards ending all forms of violence against women and girls by providing a platform for reporting and addressing gender-based violence in both public and private spheres.
+    
  ###  Goal 10: Reduced Inequalities:
  
 <kbd>
@@ -199,59 +191,36 @@ Ensure women's full and effective participation and equal opportunities for lead
 </kbd>
 
   Prevention of Injustice (Target 10.2): By actively working to reduce instances of injustice and promoting legal awareness, JusticeConnect contributes to reducing inequalities within societies.
-  ###  Goal 3: Good Health and Well-being:
-  <kbd>
-<img src="https://github.com/srirajamaddirala/JUSTICE-CONNECT/assets/151869666/f788a518-203b-439d-a233-c86b718bf2d3" height="150" />
-</kbd>
-<kbd>
-<img src="https://github.com/srirajamaddirala/JUSTICE-CONNECT/assets/151869666/a7527521-619a-443b-bc22-d3dc86b4df11" height="150" />
-</kbd>
- <kbd>
-<img src="https://github.com/srirajamaddirala/JUSTICE-CONNECT/assets/151869666/0818271a-3358-4886-b4b3-da6e4972e94e" height="150" />
-</kbd>
 
-
-  Mental Health Impact: Through its mission to reduce injustice and associated mental health issues, JusticeConnect indirectly contributes to promoting good mental health and well-being.         
-
+        
 ## 👨🏻‍💻 &nbsp;Technology Stack
 
 <div align="center">
 
 <kbd>
-<img src="./assets/icons/Firebase.png" height="60" />
+<img src="https://github.com/srirajamaddirala/JUSTICE-CONNECT/assets/151869666/3acbce14-81c9-48c8-a6d9-2478fa0cd0ee" height="60" />
 </kbd>
 <kbd>
-<img src="./assets/icons/GCP.png" height="60" />
+<img src="https://github.com/srirajamaddirala/JUSTICE-CONNECT/assets/151869666/35b68296-3cf9-469b-b0c9-d0d093474fe1" height="60" />
 </kbd>
 <kbd>
-<img src="./assets/icons/Maps.png" height="60" />
+<img src="https://github.com/srirajamaddirala/JUSTICE-CONNECT/assets/151869666/d9c7e69a-531b-470d-974c-0f03f91c76f9)" height="60" /></kbd>
+<kbd>
+<img src="https://github.com/srirajamaddirala/JUSTICE-CONNECT/assets/151869666/11bc1749-278e-4392-b796-6cd9b26d4e4a.png" height="60" />
 </kbd>
 <kbd>
-<img src="./assets/icons/ESP32.png" height="60" />
-</kbd>
-<kbd>
-<img src="./assets/icons/ESP32.png" height="60" />
+<img src="https://github.com/srirajamaddirala/JUSTICE-CONNECT/assets/151869666/dc1e39a2-40e4-4693-a488-e34825b743b7"height="60" />
 </kbd>
 </div>
 <div align="center">
 <h4> Firebase | Google Cloud Platform | Google Maps Platform | android studio | java </h4>
 </div>
 
+## ☁️🛠️ Cloud architecture and services 
+
+// internal working user acccessing frontend ,backend , database,cloud,devops one flow diagram and services description 
 
 ## 🏃‍♀️ Getting Started
 
 <hr>
 Download justice connect directly from our github repository. After downloading the app, you can sign up for an account using your Google account or use Guest Mode to explore the app.
-
-
-### 📝 Prerequisites
-
-Before you start, make sure you have installed the following on your system:
-
-- firebase
-- android studio 
-- Gmap for location access
-
-
-
-
