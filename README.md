@@ -1,6 +1,8 @@
+# JUSTICE CONNECT
+
 <div align="center">
     <div>
-        <img width="200px" src="https://github.com/Akshayp02/JUSTICE-CONNECT/assets/95123298/d7d03cf1-682b-4da6-bf26-954fadd3940f" alt="jc logo" />
+        <img width="200px" src="https://github.com/srirajamaddirala/JUSTICE-CONNECT/assets/151869666/461fc603-838e-4447-a07e-309c43df7907" alt="jc logo" />
     </div>
     <div>
         <h3><b>JUSTICE CONNECT</b></h3>
@@ -9,12 +11,13 @@
 </div>
   
 </div>
-
-![justice connect home screen](assets/headhome.png)
-
+// JUSTICE CONNECT PROTOTYPE 
+2- 1. LOGIN REGISTRATIOIN
+   2. REMAINING WORK TO HELP //
+   
 **JusticeConnect: Empowering Justice, Fostering Peace**
 
-Our mission is clear: to diminish instances of injustice, mitigate associated mental health challenges, and ensure equitable access to justice for all.
+Our mission is clear: to diminish instances of injustice, mitigate associated mental health challenges, and ensure equitable access to justice for all. 
 ## Problem Statement
 
 <br/>
@@ -31,10 +34,46 @@ The report said that of the 5.1 billion people with no meaningful access to just
 
  <img src="https://worldjusticeproject.org/sites/default/files/inline-images/chart%201.2.png" alt="Image 1" style="width: 50%;">
       <p> </p>
-      <p>An estimated 253 million people live in extreme conditions of injustice and are deprived of any meaningful legal protections: 40 million people are modern-day slaves, 12 million people are stateless, and 200 million live in countries or communities where levels of insecurity are so high that they are unable to seek justice, the team found. </p> 
+      <p>An estimated 253 million people live in extreme conditions of injustice and are deprived of any meaningful legal protections: 40 million people are modern-day slaves, 12 million people are stateless, and 200 million live in countries or communities where levels of insecurity are so high that they are unable to seek justice, the team found. </p>
 
       
-### ⭐🚀 New Features
+
+### 🌐🤝Pains addressed by justice connect
+
+-  Hard to Find Legal 
+-  Unfair Treatment Goes Unnoticed
+-  Legal Stuff is Confusing
+- Difficult to Talk to Authorities
+- Not Knowing Your Rights
+-  Emergency Help is Crucial
+
+### 🎯 Goals 
+
+- Make Legal Help Accessible
+- Build Fair Communities
+- Simplify Legal Matters
+- Easy Communication with Authorities
+- Empower Users with Legal Knowledge
+- Ensure Safety in Emergencies
+
+### UI architecture
+ /// add ui architecture photo 
+ <div align="center">
+      <img width="1612" alt="ui" src="https://github.com/srirajamaddirala/JUSTICE-CONNECT/assets/151869666/fbda314f-bbee-4ce3-8562-1b96562d4039">
+
+</div>
+ 
+
+
+## 🎥 &nbsp;Demo Video
+
+> Video Link: https://youtu.be/peDNWLrffIQ
+<a href="https://www.youtube.com/watch?v=1H82iFD0pHM">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="LinkedIn Badge"/>
+  </a> 
+
+      
+## ⭐🚀 New Features
 
 -    Transparent Governance
 -    Access to Justice
@@ -49,7 +88,7 @@ The report said that of the 5.1 billion people with no meaningful access to just
 -    Special Accessibility Features for Disabled Persons
 -    Low Network Compatibility
   
-### 👀 Future Enhancements
+## 👀 Future Enhancements
 
 -    Suicide Prevention using ai algorithms
 -    Self-Protection Tools using Virtual reality (VR) self-defense tutorial
@@ -61,10 +100,9 @@ The report said that of the 5.1 billion people with no meaningful access to just
 ## 🛠️ &nbsp;Key Functionalities
 
 <div align="center">
-        <img width="600px" src="https://github.com/Akshayp02/JUSTICE-CONNECT/assets/95123298/c86cd88e-139e-4c3d-a4d8-98ea8f5900a4" alt="jc logo"  />
+        <img width="400px" src="https://github.com/Akshayp02/JUSTICE-CONNECT/assets/95123298/c86cd88e-139e-4c3d-a4d8-98ea8f5900a4" alt="jc logo"  />
     </div>
-
-
+    
    ###  1.**`User Registration`**:
   Users create secure accounts, ensuring privacy and confidentiality.
 
@@ -98,76 +136,108 @@ Customizable privacy settings, allowing users to control the level of anonymity 
    ###  11.**`Follow-up and Resolution`**:
   Facilitates communication between users, legal representatives, and authorities, ensuring transparent progress tracking.
 
+// user flow ....identify stakeholders 
+primary tasks 
+internal works ...connection a user flow diagram
+ <div align="center">
+      
+<img width="4204" alt="userflow(1)" src="https://github.com/srirajamaddirala/JUSTICE-CONNECT/assets/151869666/cbcb68b9-9dda-4280-8a83-dbf1d7bcb95a">
 
+</div>
 
 JusticeConnect stands as a reliable ally for justice seekers, streamlining the path towards resolution and empowerment.
    </div>
+   
 ## 🎯 &nbsp;UN's Sustainable Development Goals & Targets
 
 ### Goal 16: Peace, Justice, and Strong Institutions:
 
-![SDG16](assets/SDG16.png)
+<kbd>
+<img src="https://github.com/srirajamaddirala/JUSTICE-CONNECT/assets/151869666/028d5dc3-1161-4990-b46a-59423edf6d28" height="150" />
+</kbd>
+<kbd>
+<img src="https://github.com/srirajamaddirala/JUSTICE-CONNECT/assets/151869666/bb93364a-9cdc-47ff-9e85-212fdece98ab" height="150" />
+</kbd>
+<kbd>
+<img src="https://github.com/srirajamaddirala/JUSTICE-CONNECT/assets/151869666/21363bc1-d8a8-4208-8f32-f5786cc55fc5" height="150" />
+</kbd>
 
-  Transparent Governance (Target 16.6): JusticeConnect promotes transparent and inclusive decision-making, contributing to accountable institutions and reducing corruption.
-   Access to Justice (Target 16.3): The app facilitates universal access to justice, ensuring fair treatment for all individuals and supporting the development of effective, accountable, and inclusive institutions.
 
+   Combating Corruption and Bribery(**`Target 16.5`**): JusticeConnect aims to empower individuals to report instances of corruption.
+   Access to Justice (**`Target 16.3`**): The app facilitates universal access to justice, ensuring fair treatment for all individuals and supporting the development of effective, accountable, and inclusive institutions.
+   
  ### Goal 5: Gender Equality:
  
-  ![SDG16](assets/SDG16.png)
-  
-   Women's Safety and Empowerment: JusticeConnect, by ensuring immediate response mechanisms and advocating for women's safety, contributes to the broader goal of achieving gender equality and empowering all women and girls.
+  Women's Safety and Empowerment: JusticeConnect, by ensuring immediate response mechanisms and advocating for women's safety, contributes to the broader goal of achieving gender equality and empowering all women and girls.
 
+  
+ <kbd>
+<img src="https://github.com/srirajamaddirala/JUSTICE-CONNECT/assets/151869666/cfb80dce-b215-4df5-8a22-6e1d681b0ffc" height="150" />
+</kbd>
+<kbd>
+<img src="https://github.com/srirajamaddirala/JUSTICE-CONNECT/assets/151869666/6a147ce3-1370-4eeb-aa7a-74a5983cf0d7" height="150" />
+</kbd>
+
+<kbd>
+<img src="https://github.com/srirajamaddirala/JUSTICE-CONNECT/assets/151869666/f5996071-6331-4955-984d-76c1311b3663" height="150" />
+</kbd>
+
+  
+
+End all forms of discrimination and violence against women and girls (**`target 5.1`**):
+        JusticeConnect supports users in reporting and addressing various forms of discrimination and violence, promoting a safer environment for women and girls.
+        
+Ending Gender-Based Violence (**`target 5.2`**):JusticeConnect works towards ending all forms of violence against women and girls by providing a platform for reporting and addressing gender-based violence in both public and private spheres.
+    
  ###  Goal 10: Reduced Inequalities:
  
-![SDG16](assets/SDG16.png)
+<kbd>
+<img src="https://github.com/srirajamaddirala/JUSTICE-CONNECT/assets/151869666/77ff8696-c60e-4fdf-9298-9a0f34d3bda4" height="150" />
+</kbd>
+<kbd>
+<img src="https://github.com/srirajamaddirala/JUSTICE-CONNECT/assets/151869666/04048927-2b57-48da-b28d-9180cafbe805" height="150" />
+</kbd>
 
   Prevention of Injustice (Target 10.2): By actively working to reduce instances of injustice and promoting legal awareness, JusticeConnect contributes to reducing inequalities within societies.
-  ###  Goal 3: Good Health and Well-being:
-  
-![SDG16](assets/SDG16.png)
 
-  Mental Health Impact: Through its mission to reduce injustice and associated mental health issues, JusticeConnect indirectly contributes to promoting good mental health and well-being.         
-
+        
 ## 👨🏻‍💻 &nbsp;Technology Stack
 
 <div align="center">
 
 <kbd>
-<img src="./assets/icons/Firebase.png" height="60" />
+<img src="https://github.com/srirajamaddirala/JUSTICE-CONNECT/assets/151869666/3acbce14-81c9-48c8-a6d9-2478fa0cd0ee" height="60" />
 </kbd>
 <kbd>
-<img src="./assets/icons/GCP.png" height="60" />
+<img src="https://github.com/srirajamaddirala/JUSTICE-CONNECT/assets/151869666/35b68296-3cf9-469b-b0c9-d0d093474fe1" height="60" />
 </kbd>
 <kbd>
-<img src="./assets/icons/Maps.png" height="60" />
+<img src="https://github.com/srirajamaddirala/JUSTICE-CONNECT/assets/151869666/d9c7e69a-531b-470d-974c-0f03f91c76f9)" height="60" /></kbd>
+<kbd>
+<img src="https://github.com/srirajamaddirala/JUSTICE-CONNECT/assets/151869666/11bc1749-278e-4392-b796-6cd9b26d4e4a.png" height="60" />
 </kbd>
 <kbd>
-<img src="./assets/icons/ESP32.png" height="60" />
-</kbd>
-<kbd>
-<img src="./assets/icons/ESP32.png" height="60" />
+<img src="https://github.com/srirajamaddirala/JUSTICE-CONNECT/assets/151869666/dc1e39a2-40e4-4693-a488-e34825b743b7"height="60" />
 </kbd>
 </div>
 <div align="center">
 <h4> Firebase | Google Cloud Platform | Google Maps Platform | android studio | java </h4>
 </div>
 
+## ☁️🛠️ Cloud architecture and services 
 
+// internal working user acccessing frontend ,backend , database,cloud,devops one flow diagram and services description 
+ <div align="center">
+     <img width="350" alt="userflow(2)" src="https://github.com/srirajamaddirala/JUSTICE-CONNECT/assets/151869666/c708b3d1-3f81-4ed0-a248-7ff5d18e4866">
+
+
+</div>
+ <div align="center">
+     <img width="500" alt="userflow(4)" src="https://github.com/srirajamaddirala/JUSTICE-CONNECT/assets/151869666/be9d9dd0-0efa-43ea-8efd-be3a1014885c">
+
+
+</div>
 ## 🏃‍♀️ Getting Started
 
 <hr>
 Download justice connect directly from our github repository. After downloading the app, you can sign up for an account using your Google account or use Guest Mode to explore the app.
-
-
-### 📝 Prerequisites
-
-Before you start, make sure you have installed the following on your system:
-
-- firebase
-- VS Code
-- android studio for VS Code
-- Gmap for location access
-
-
-
-
