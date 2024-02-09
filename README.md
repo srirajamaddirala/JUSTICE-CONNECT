@@ -58,6 +58,10 @@ The report said that of the 5.1 billion people with no meaningful access to just
 
 ### UI architecture
  /// add ui architecture photo 
+ <div align="center">
+      <img width="1612" alt="ui" src="https://github.com/srirajamaddirala/JUSTICE-CONNECT/assets/151869666/fbda314f-bbee-4ce3-8562-1b96562d4039">
+
+</div>
  
 
 
@@ -135,7 +139,11 @@ Customizable privacy settings, allowing users to control the level of anonymity 
 // user flow ....identify stakeholders 
 primary tasks 
 internal works ...connection a user flow diagram
+ <div align="center">
+      
+<img width="4204" alt="userflow(1)" src="https://github.com/srirajamaddirala/JUSTICE-CONNECT/assets/151869666/cbcb68b9-9dda-4280-8a83-dbf1d7bcb95a">
 
+</div>
 
 JusticeConnect stands as a reliable ally for justice seekers, streamlining the path towards resolution and empowerment.
    </div>
@@ -155,7 +163,7 @@ JusticeConnect stands as a reliable ally for justice seekers, streamlining the p
 </kbd>
 
 
-   Combating Corruption and Bribery(**`Target 16.6`**): JusticeConnect aims to empower individuals to report instances of corruption.
+   Combating Corruption and Bribery(**`Target 16.5`**): JusticeConnect aims to empower individuals to report instances of corruption.
    Access to Justice (**`Target 16.3`**): The app facilitates universal access to justice, ensuring fair treatment for all individuals and supporting the development of effective, accountable, and inclusive institutions.
    
  ### Goal 5: Gender Equality:
@@ -219,7 +227,16 @@ Ending Gender-Based Violence (**`target 5.2`**):JusticeConnect works towards end
 ## ☁️🛠️ Cloud architecture and services 
 
 // internal working user acccessing frontend ,backend , database,cloud,devops one flow diagram and services description 
+ <div align="center">
+     <img width="350" alt="userflow(2)" src="https://github.com/srirajamaddirala/JUSTICE-CONNECT/assets/151869666/c708b3d1-3f81-4ed0-a248-7ff5d18e4866">
 
+
+</div>
+ <div align="center">
+     <img width="500" alt="userflow(4)" src="https://github.com/srirajamaddirala/JUSTICE-CONNECT/assets/151869666/be9d9dd0-0efa-43ea-8efd-be3a1014885c">
+
+
+</div>
 ## 🏃‍♀️ Getting Started
 
 <hr>
