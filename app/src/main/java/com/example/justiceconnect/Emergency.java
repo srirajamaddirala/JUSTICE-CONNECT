@@ -24,7 +24,6 @@ public class Emergency extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         binding = ActivityEmergencyBinding.inflate(getLayoutInflater());
         setContentView(binding.getRoot());
-        getSupportActionBar().hide();
 
         binding.fire.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -61,7 +60,7 @@ public class Emergency extends AppCompatActivity {
             }
         });
 
-        binding.hospital.setOnClickListener(new View.OnClickListener() {
+        binding.msg.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 if (ContextCompat.checkSelfPermission(

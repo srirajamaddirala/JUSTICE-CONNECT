@@ -57,18 +57,18 @@ The report said that of the 5.1 billion people with no meaningful access to just
 - Ensure Safety in Emergencies
 
 ### UI architecture
- /// add ui architecture photo 
- <div align="center">
-      <img width="1612" alt="ui" src="https://github.com/srirajamaddirala/JUSTICE-CONNECT/assets/151869666/fbda314f-bbee-4ce3-8562-1b96562d4039">
 
-</div>
+ <div align="left">
+       <img width="250" alt="ui(1)" src="https://github.com/srirajamaddirala/JUSTICE-CONNECT/assets/151869666/34490083-61ae-42ba-a64a-30713b521240">
+ </div>
  
+ > click to enlarge 
 
 
 ## 🎥 &nbsp;Demo Video
 
 > Video Link: https://youtu.be/peDNWLrffIQ
-<a href="https://www.youtube.com/watch?v=1H82iFD0pHM">
+<a href="">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="LinkedIn Badge"/>
   </a> 
 
@@ -136,9 +136,6 @@ Customizable privacy settings, allowing users to control the level of anonymity 
    ###  11.**`Follow-up and Resolution`**:
   Facilitates communication between users, legal representatives, and authorities, ensuring transparent progress tracking.
 
-// user flow ....identify stakeholders 
-primary tasks 
-internal works ...connection a user flow diagram
  <div align="center">
       
 <img width="4204" alt="userflow(1)" src="https://github.com/srirajamaddirala/JUSTICE-CONNECT/assets/151869666/cbcb68b9-9dda-4280-8a83-dbf1d7bcb95a">
@@ -198,7 +195,7 @@ Ending Gender-Based Violence (**`target 5.2`**):JusticeConnect works towards end
 <img src="https://github.com/srirajamaddirala/JUSTICE-CONNECT/assets/151869666/04048927-2b57-48da-b28d-9180cafbe805" height="150" />
 </kbd>
 
-  Prevention of Injustice (Target 10.2): By actively working to reduce instances of injustice and promoting legal awareness, JusticeConnect contributes to reducing inequalities within societies.
+  Prevention of Injustice (**`Target 10.2`**): By actively working to reduce instances of injustice and promoting legal awareness, JusticeConnect contributes to reducing inequalities within societies.
 
         
 ## 👨🏻‍💻 &nbsp;Technology Stack
@@ -226,18 +223,63 @@ Ending Gender-Based Violence (**`target 5.2`**):JusticeConnect works towards end
 
 ## ☁️🛠️ Cloud architecture and services 
 
-// internal working user acccessing frontend ,backend , database,cloud,devops one flow diagram and services description 
- <div align="center">
-     <img width="350" alt="userflow(2)" src="https://github.com/srirajamaddirala/JUSTICE-CONNECT/assets/151869666/c708b3d1-3f81-4ed0-a248-7ff5d18e4866">
+This description paints Justice Connect as a vibrant and dynamic platform, powered by a team dedicated to delivering justice efficiently and innovatively.
 
 
-</div>
- <div align="center">
-     <img width="500" alt="userflow(4)" src="https://github.com/srirajamaddirala/JUSTICE-CONNECT/assets/151869666/be9d9dd0-0efa-43ea-8efd-be3a1014885c">
+🚪  User Access: Gain access to Justice Connect's comprehensive suite of features.
 
+🌐 Frontend (Gateway to Justice): The user-friendly interface through which users access Justice Connect's services.
 
-</div>
+⚙️ Backend (Heart of Justice): The robust backend system that processes requests and ensures smooth operation.
+
+🔗 API Server: Facilitates seamless communication between the frontend and backend components.
+
+💾 Database Service: Securely stores and retrieves data to maintain user information.
+
+☁️ Cloud Service: Provides scalable and reliable cloud infrastructure to support Justice Connect's operations.
+
+🔧 DevOps Tools: Ensures efficient development, deployment, and maintenance of Justice Connect.
+
+📊 Analytics Service: Offers insights into user data, enabling continuous improvement of Justice Connect's services.
+
+🌟 Other Cloud Services: Provides additional support and functionality essential for Justice Connect's operations
+ <table style="width: 100%;">
+  <tr>
+    <td style="text-align: center;">
+      <img src="https://github.com/srirajamaddirala/JUSTICE-CONNECT/assets/151869666/c708b3d1-3f81-4ed0-a248-7ff5d18e4866" alt="Image 1" style="width: 100%;">
+      <p>CLOUD ARCHITECTURE </p>
+    </td>
+    <td style="text-align: center;">
+      <img src="https://github.com/srirajamaddirala/JUSTICE-CONNECT/assets/151869666/be9d9dd0-0efa-43ea-8efd-be3a1014885c" alt="Image 8" style="width: 100%;">
+     <p>CLOUD ARCHITECTURE AND SERVICES</p>
+    </td>
+   
+  </tr>
+</table>
+       
+
 ## 🏃‍♀️ Getting Started
 
-<hr>
-Download justice connect directly from our github repository. After downloading the app, you can sign up for an account using your Google account or use Guest Mode to explore the app.
+
+Download justice connect directly from our github repository {// APP LINK }. After downloading the app, you can sign up for an account using your Google account or use Guest Mode to explore the app.
+Detailed introduction of this app can be found in the readme
+
+## ❓ How to Use
+
+📱 Download and Install: Visit the app store on your device and search for "Justice Connect." Download and install the app.
+
+🚪 Sign Up/Login: Open the app and either sign up for a new account or log in if you already have one.
+
+🔍 Explore Features: Once logged in, explore the app's features. You can access legal information, report incidents, and manage notifications.
+
+📚 Access Legal Information: If you need legal information, navigate to the legal information section and browse the resources available.
+
+🚨 Report Incidents: To report an incident, fill in the incident reporting form with the necessary details and submit it. You will receive a confirmation once the report is submitted.
+
+🔔 Manage Notifications: If you wish to manage your notification preferences, navigate to the notification settings and adjust them as needed.
+
+🚪 Log Out: Once you're done using the app, log out to ensure the security of your account.
+
+📢 Provide Feedback: If you have any feedback or suggestions for improvement, consider providing it through the app's feedback mechanism.
+
+Remember to use Justice Connect responsibly and in accordance with its terms of service and community guidelines.
