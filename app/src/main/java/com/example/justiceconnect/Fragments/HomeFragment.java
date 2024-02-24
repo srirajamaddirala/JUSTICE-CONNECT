@@ -1,12 +1,11 @@
-package com.example.justiceconnect.ui.home;
+package com.example.justiceconnect.Fragments;
 
+import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.TextView;
-import android.widget.Toast;
 
 import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
@@ -15,11 +14,8 @@ import androidx.fragment.app.FragmentTransaction;
 import androidx.lifecycle.ViewModelProvider;
 
 import com.example.justiceconnect.Emergency;
-import com.example.justiceconnect.GovScheme;
 import com.example.justiceconnect.R;
 import com.example.justiceconnect.databinding.FragmentHomeBinding;
-import com.example.justiceconnect.rulesofnation;
-import com.example.justiceconnect.ui.Emergency.SlideshowFragment;
 
 public class HomeFragment extends Fragment {
 
@@ -44,22 +40,35 @@ public class HomeFragment extends Fragment {
             }
         });
 
-        binding.rulls
-                .setOnClickListener(new View.OnClickListener() {
-                                        @Override
-                                        public void onClick(View v) {
-                                            Intent intent = new Intent(getActivity(), rulesofnation.class);
-                                            startActivity(intent);
-                                        }
-                                    }
-                );
+
+        binding.cyberCrime.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                CybercrimeComplaintFragment fragment = new CybercrimeComplaintFragment();
+                FragmentManager fragmentManager = requireActivity().getSupportFragmentManager();
+                FragmentTransaction transaction = fragmentManager.beginTransaction();
+                transaction.replace(R.id.nav_host_fragment_content_main, fragment);
+                transaction.addToBackStack(null);
+
+                transaction.commit();
+            }
+        });
+
+
+        binding.floatingActionButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(getActivity(), Emergency.class);
+                startActivity(intent);
+            }
+        });
+
 
         binding.govScheme
                 .setOnClickListener(new View.OnClickListener() {
                                         @Override
                                         public void onClick(View v) {
-                                            Intent intent = new Intent(getActivity(), GovScheme.class);
-                                            startActivity(intent);
+
                                         }
                                     }
                 );
@@ -68,8 +77,13 @@ public class HomeFragment extends Fragment {
                 .setOnClickListener(new View.OnClickListener() {
                                         @Override
                                         public void onClick(View v) {
-                                            Intent intent = new Intent(getActivity(), com.example.justiceconnect.Ecompliant.class);
-                                            startActivity(intent);
+                                            ComplientsFragment fragment = new ComplientsFragment();
+                                            FragmentManager fragmentManager = requireActivity().getSupportFragmentManager();
+                                            FragmentTransaction transaction = fragmentManager.beginTransaction();
+                                            transaction.replace(R.id.nav_host_fragment_content_main, fragment);
+                                            transaction.addToBackStack(null);
+                                            transaction.commit();
+
                                         }
                                     }
                 );

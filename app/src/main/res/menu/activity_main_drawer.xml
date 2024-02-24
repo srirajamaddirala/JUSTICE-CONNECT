@@ -4,6 +4,7 @@
     tools:showIn="navigation_view">
 
     <group android:checkableBehavior="single">
+
         <item
             android:id="@+id/nav_home"
             android:icon="@drawable/baseline_home_24"
@@ -14,7 +15,13 @@
             android:title="E-Compliant" />
         <item
             android:id="@+id/nav_slideshow"
-            android:icon="@drawable/ic_menu_slideshow"
+            android:icon="@drawable/emergency"
             android:title="Emergency" />
+
+        <item
+            android:id="@+id/Rules_oF_National"
+            android:icon="@drawable/rulls"
+            android:title="National Rules " />
     </group>
+
 </menu>
