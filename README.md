@@ -11,7 +11,7 @@
 </div>
   
 </div>
-<div>
+<div align = center>
         <img width="200px"  src="https://github.com/srirajamaddirala/JUSTICE-CONNECT/assets/151869666/188753b2-a683-41a7-9912-5443b0ae2ec2" alt="jc logo" />
     </div>
    
