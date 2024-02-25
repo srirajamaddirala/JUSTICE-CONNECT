@@ -11,9 +11,9 @@
 </div>
   
 </div>
-// JUSTICE CONNECT PROTOTYPE 
-2- 1. LOGIN REGISTRATIOIN
-   2. REMAINING WORK TO HELP //
+<div>
+        <img width="200px"  src="https://github.com/srirajamaddirala/JUSTICE-CONNECT/assets/151869666/188753b2-a683-41a7-9912-5443b0ae2ec2" alt="jc logo" />
+    </div>
    
 **JusticeConnect: Empowering Justice, Fostering Peace**
 
