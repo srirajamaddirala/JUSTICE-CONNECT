@@ -216,9 +216,12 @@ Ending Gender-Based Violence (**`target 5.2`**):JusticeConnect works towards end
 <kbd>
 <img src="https://github.com/srirajamaddirala/JUSTICE-CONNECT/assets/151869666/dc1e39a2-40e4-4693-a488-e34825b743b7"height="60" />
 </kbd>
+<kbd>
+<img src="https://github.com/srirajamaddirala/JUSTICE-CONNECT/assets/151869666/ef3653b6-200f-404a-854e-0fe0553042c3"height="60" />
+</kbd>
 </div>
 <div align="center">
-<h4> Firebase | Google Cloud Platform | Google Maps Platform | android studio | java </h4>
+<h4> Firebase | Google Cloud Platform | Google Maps Platform | android studio | java | XML </h4>
 </div>
 
 ## ☁️🛠️ Cloud architecture and services 
